@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/demo.dir/Main.cpp.o CMakeFiles/demo.dir/Deck.cpp.o CMakeFiles/demo.dir/Gameplay.cpp.o  -o demo -rdynamic 

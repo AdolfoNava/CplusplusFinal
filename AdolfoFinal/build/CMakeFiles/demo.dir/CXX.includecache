@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cuser/alex.enriquez/AdolfoFinal/Deck.cpp
+Deck.h
+/home/cuser/alex.enriquez/AdolfoFinal/Deck.h
+algorithm
+-
+
+/home/cuser/alex.enriquez/AdolfoFinal/Deck.h
+
+/home/cuser/alex.enriquez/AdolfoFinal/Gameplay.cpp
+Gameplay.h
+/home/cuser/alex.enriquez/AdolfoFinal/Gameplay.h
+Player.h
+/home/cuser/alex.enriquez/AdolfoFinal/Player.h
+
+/home/cuser/alex.enriquez/AdolfoFinal/Gameplay.h
+Deck.h
+/home/cuser/alex.enriquez/AdolfoFinal/Deck.h
+string
+-
+
+/home/cuser/alex.enriquez/AdolfoFinal/Main.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+Deck.h
+/home/cuser/alex.enriquez/AdolfoFinal/Deck.h
+Gameplay.h
+/home/cuser/alex.enriquez/AdolfoFinal/Gameplay.h
+iomanip
+-
+
